@@ -12,20 +12,20 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-03-06 02:41:19
+最后更新时间：2026-09-04 04:27:20
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 307  | 
+| HOST | 267  | 
 | HOST-KEYWORD | 11  | 
-| HOST-SUFFIX | 116632  | 
+| HOST-SUFFIX | 110580  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8321  | 
-| IP6-CIDR | 4314  | 
+| IP-CIDR | 8245  | 
+| IP6-CIDR | 4212  | 
 | USER-AGENT | 65  | 
-| TOTAL | 129652  | 
+| TOTAL | 123382  | 
 
 
 ## QuantumultX 
@@ -422,6 +422,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
+- https://ruleset.isagood.day/alibaba.conf
+- https://ruleset.isagood.day/bilibili.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

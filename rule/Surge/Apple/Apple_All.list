@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-06 02:37:19
+# UPDATED: 2026-09-04 04:23:34
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -816,7 +816,6 @@ DOMAIN-SUFFIX,ibeats-uk.com
 DOMAIN-SUFFIX,ibeatsbydre.cc
 DOMAIN-SUFFIX,ibeatsbydre.com
 DOMAIN-SUFFIX,ichat.co.in
-DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,idvd.eu
 DOMAIN-SUFFIX,igoshopping.net
 DOMAIN-SUFFIX,ikids.com
@@ -1569,6 +1568,7 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net

@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-06 02:37:19
+# UPDATED: 2026-09-04 04:23:34
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -816,7 +816,6 @@ payload:
   - '+.ibeatsbydre.cc'
   - '+.ibeatsbydre.com'
   - '+.ichat.co.in'
-  - '+.icloud-content.com.cn'
   - '+.idvd.eu'
   - '+.igoshopping.net'
   - '+.ikids.com'
@@ -1569,4 +1568,5 @@ payload:
   - '+.apple-livephotoskit.com'
   - '+.apzones.com'
   - '+.cdn-apple.com'
+  - '+.icloud-content.com.cn'
   - '+.icloud.cn'
